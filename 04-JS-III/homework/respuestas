@@ -1,0 +1,5 @@
+Array: son objetos individuales que contienen diferentes valores almacenados en una lista. Los valores pueden almacenarse en variables y tratarse de la misma manera que cualquier otro tipo de valor, la diferencia es que podemos acceder individualmente a cada valor dentro de la lista utilizarlos para realizar alguna tarea, modificarlos e incluso eliminarlos.
+Declaración: var nombre =[1,'lucas',4,'curso'] 
+El acceso a estos valores se hace nombrando el array y colocando entre [] un índice, que nos da acceso a un lugar dentro de él. Comienza desde el índice 0.
+ej: nombre[0], devolverá el valor 1.
+nombre[1], devolverá la cadena 'lucas'.
