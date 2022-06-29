@@ -1,0 +1,5 @@
+Variables : Es una forma de almacenar información. Existen 3 formas de declararla: Var, Let y Const. 
+Strings : Se define entre comillas dobles("") o simples(' '). Son cadenas de texto.
+Funciones : Es un bloque de códigos que recibe argumentos, realiza una tarea con ellos y puede o no, devolver valores(a través de Return). Sirve para no repetir líneas para realizar la misma tarea en diferentes puntos del código.
+Declaraciones If: Nos sirve para evaluar o comparar valores y dependiendo de ellos ejecutar un código o no hacerlo. If(condición){ bloque de instrucciones)}
+Valores Booleanos: Pueden ser "True" o "False". Sirven para definir si una condición es verdadera o falsa
