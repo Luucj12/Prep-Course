@@ -1,0 +1,7 @@
+For: Es un bucle que se utiliza para repetir instrucciones una determinada cantidad de veces. A través de una variable podemos controlar la cantidad de veces que queremos que se repita el bucle.
+     declaración: for( var=i; i<x; i++){} // var=i determina el inicio del bucle // i<x valor final de i que terminará el bucle // i++ aumento de i con el paso de los bucles.
+&&,|| ,! : && (and) y || (or), son operadores lógicos que nos permiten crear condiciones compuestas en una fórmula. El operador !(not) en cambio sirve para negar una expresión
+
+&& : Será verdadero solo si todas las condicones son verdaderas.
+|| : Será verdadero si una de las condiciones evaluadas es verdadera.
+! : Devuelve un el valor contrario del que se ingresa. Ej: !false (devolverá true)
